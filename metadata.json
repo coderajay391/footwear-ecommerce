@@ -1,0 +1,6 @@
+{
+  "name": "AURELIUS & CO. | Men's Footwear",
+  "description": "Minimal, luxury men's footwear atelier offering handcrafted calfskin sneakers, Goodyear-welted oxfords, Italian suede loafers, and Chelsea boots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
